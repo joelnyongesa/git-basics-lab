@@ -1,0 +1,1 @@
+This is an additional practice activity, where I created an additional file (this file), added, committed and pushed to the remote
